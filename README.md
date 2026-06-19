@@ -1,4 +1,4 @@
-Projekt zaliczeniowy w ramach Laboratorium nr 2. Łukasz Gębski
+Projekt zaliczeniowy w ramach Laboratorium nr 2 Łukasz Gębski
 
 # React + Vite
 
